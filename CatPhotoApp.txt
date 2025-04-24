@@ -153,3 +153,8 @@ A cute orange cat lying on its back
 
 Шаг 12
 Добавить слова See more перед элементом привязки и in our gallery после элемента привязки.
+
+
+
+Шаг 13
+Добавьте теги р, чтобы превратить See more <a href="https://freecatphotoapp.com">cat photos</a> in our gallery. в абзац.
