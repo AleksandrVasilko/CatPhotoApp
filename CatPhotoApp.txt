@@ -122,3 +122,16 @@ https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
 Внутри элемента img, добавьте атрибут alt с этим текстом:
 
 A cute orange cat lying on its back
+
+
+
+Шаг 10
+Вы можете ссылаться на другую страницу с элементом ссылки (а).
+
+Вот пример ссылки на https://www.freecodecamp.org:
+
+Пример кода
+
+<a href="https://www.freecodecamp.org"></a>
+
+Добавить элемент привязки после абзаца, который связывает с https://freecatphotoapp.com. На этом этапе ссылка не будет показана в предварительном просмотре.
