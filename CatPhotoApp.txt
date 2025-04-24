@@ -640,3 +640,8 @@ Loving
 
 Шаг 65
 Помещайте элемент p с текстом No Copyright - freeCodeCamp.org в элемент нижнего колонтитула footer.
+
+
+
+Шаг 66
+Превращение существующего текста freeCodeCamp.org в ссылку, добавляя его в элемент anchor (a). Атрибут href должен быть установлен в https://www.freecodecamp.org.
