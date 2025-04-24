@@ -11,3 +11,23 @@
 Измените текст элемента h1 ниже от Hello World на CatPhotoApp и посмотрите на изменение в предварительном просмотре браузера.
 
 Когда вы закончите, нажмите кнопку "Проверить код", чтобы увидеть, правильно ли это.
+
+
+
+Шаг 2
+Элементы заголовка от h1 до h6 используются для обозначения важности контента ниже них. Чем ниже число, тем выше значение, поэтому элементы h2 имеют меньшее значение, чем элементы h1.
+
+Пример кода
+
+<h1>most important heading element</h1>
+<h2>second most important heading element</h2>
+<h3>third most important heading element</h3>
+<h4>fourth most important heading element</h4>
+<h5>fifth most important heading element</h5>
+<h6>least important heading element</h6>
+
+Используйте только один элемент h1 на странице и поместите более важные заголовки ниже более важных заголовков.
+
+Под элементом h1 добавьте элемент h2 с этим текстом:
+
+Cat Photos
