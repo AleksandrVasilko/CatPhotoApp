@@ -135,3 +135,16 @@ A cute orange cat lying on its back
 <a href="https://www.freecodecamp.org"></a>
 
 Добавить элемент привязки после абзаца, который связывает с https://freecatphotoapp.com. На этом этапе ссылка не будет показана в предварительном просмотре.
+
+
+
+Шаг 11
+Текст ссылки должен быть помещен между открывающими и закрывающими тегами элемента ссылки anchor (a).
+
+Вот пример ссылки с текстом, нажимайте здесь, чтобы перейти на freeCodeCamp.org:
+
+Пример кода
+
+<a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a>
+
+Добавьте cat photos в элемент ссылки. Это станет текстом ссылки.
