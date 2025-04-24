@@ -264,3 +264,14 @@ catnip
 laser pointers
 
 lasagna
+
+
+
+Шаг 24
+После неупорядоченного списка добавьте новое изображение с значением src:
+
+https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
+
+И значение атрибута alt:
+
+A slice of lasagna on a plate.
