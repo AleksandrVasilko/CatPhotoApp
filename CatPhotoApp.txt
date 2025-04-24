@@ -216,3 +216,8 @@ https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg
 </section>
 
 Возьмите ваши h2, p и ссылку (a) элементы и вложить их в элемент раздела.
+
+
+
+Шаг 19
+Пришло время добавить новый раздел section. Добавьте второй элемент section под существующим элементом.
