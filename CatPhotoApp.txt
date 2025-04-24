@@ -158,3 +158,10 @@ A cute orange cat lying on its back
 
 Шаг 13
 Добавьте теги р, чтобы превратить See more <a href="https://freecatphotoapp.com">cat photos</a> in our gallery. в абзац.
+
+
+
+Шаг 14Passed
+Превращение существующего текста cute cats в привязный элемент, который связывает:
+
+https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg
