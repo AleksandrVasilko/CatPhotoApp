@@ -275,3 +275,10 @@ https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
 И значение атрибута alt:
 
 A slice of lasagna on a plate.
+
+
+
+Шаг 25
+Элемент figure представляет собой самостоятельное содержание и позволит вам связать изображение с заголовком.
+
+Вложить только что добавленное изображение в элемент figure.
