@@ -417,3 +417,16 @@ Cat Form
 <input type="text" name="name">
 
 Добавить атрибут name с значением catphotourl в текстовое поле.
+
+
+
+Шаг 42
+Placeholder текст используется для того, чтобы дать людям подсказку о том, какую информацию они должны ввести в input.
+
+Вот пример элемента ввода с местозаполнителем, установленным на Например. Jane Doe:
+
+Пример кода
+
+<input type="text" placeholder="Ex. Jane Doe">
+
+Добавьте placeholder с текстом cat photo URL к вашему элементу input.
