@@ -180,3 +180,8 @@ https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg
 <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a>
 
 Добавить целевой атрибут с значением _blank в открывающий тег элемента ссылки (a), чтобы ссылка открывалась на новой вкладке.
+
+
+
+Шаг 16
+Теперь, когда вы добавили ссылку, вы можете удалить комментарий.
