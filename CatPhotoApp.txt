@@ -330,3 +330,8 @@ other cats
 
 Step 30
 После упорядоченного списка добавьте ещё один элемент фигуры.
+
+
+
+Шаг 31
+Внутри элемента figure, который вы только что добавили, вложен элемент img с атрибутом src, установленным на https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg.
